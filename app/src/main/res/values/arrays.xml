@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="loading_images">
+        <item>@drawable/arhitecture0005</item>
+        <item>@drawable/arhitecture0007</item>
+        <item>@drawable/arhitecture0010</item>
+        <item>@drawable/example_appwidget_preview</item>
+    </array>
+</resources>
